@@ -102,7 +102,7 @@ All updates are stored in Firebase and reflected in real time in the mobile appl
 
 Open MIT App Inventor.
 
-Import the project (.aia file).
+Import the project.
 
 Verify the Firebase database URL.
 
