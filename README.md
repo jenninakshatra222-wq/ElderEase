@@ -60,37 +60,60 @@ Frontend (Web): HTML, CSS, JavaScript
 
 Backend: Firebase Realtime Database
 
+### 7.How to Run the Program
 
+***Prerequisites***
 
-7. System Workflow
+Google Chrome / Microsoft Edge
 
-User places an order via the mobile application
+Active internet connection
 
-Order data is stored in Firebase
+Firebase Realtime Database configured
 
-Shopkeeper views the order through the web portal
+MIT App Inventor account
 
-Order status updates are pushed to Firebase
+### Running the Shopkeeper Web Module
 
-Mobile application reflects real-time status updates
+Open the project folder.
+
+Locate the file named new 2.
+
+Open the new 2 file in a web browser.
+
+The new 2 file acts as the main interface for shopkeepers.
+
+From this page, shopkeepers can navigate to the following service pages:
+
+Groceries
+
+Water
+
+Laundry
+
+Medicals
+
+Each service page displays orders related to the selected service.
+
+Shopkeepers can view order details and update order status.
+
+All updates are stored in Firebase and reflected in real time in the mobile application.
+
+### Running the Mobile Application
+
+Open MIT App Inventor.
+
+Import the project (.aia file).
+
+Verify the Firebase database URL.
+
+Connect an Android device or use the MIT AI Companion.
+
+Run the application.
+
+Users can place orders and track order status in real time.
 
 
 8. Scope of the Project
 
 This system is intended for use within gated communities and can be extended to support additional services, payment gateways, and administrative monitoring features.
 
-
-9. Future Enhancements
-
-Integration of online payment systems
-
-Voice-assisted ordering for elderly users
-
-GPS-based delivery tracking
-
-Admin dashboard for analytics and control
-
-
-10. Conclusion
-
-Elderease demonstrates an effective approach to leveraging mobile and web technologies to address real-world challenges faced by elderly residents. The system improves service accessibility, reduces dependency, and enhances overall quality of life.
